@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am hard-working, creative and proactive. Passionate about instant selfimprovement and focused forward. Currently I’m learning different areas of
+programming every day. Also, I'm studying at the university. I like to work in a team on interesting projects.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmaksimka)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmaksimka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
